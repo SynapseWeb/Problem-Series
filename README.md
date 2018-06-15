@@ -1,6 +1,6 @@
 # Problem-Series
 
-This repository is dedicated to collecting "Problem Series" with regard to existing and developing software. Some of these problems may be hard to describe, so this repository is planned to be just a series of folders (one per "problem") with names of "Problem_xxx". Each problem can be described in this README.md file.
+This repository is dedicated to collecting "Problem Series" with regard to existing and developing software. Some of these problems may be hard to describe, so this repository is planned to be just a series of folders (one per "problem") with names of "Problem_xxx". Each problem can be described in this README.md file. If the list gets too long, it can be subdivided.
 
 ## Problem_001
 
